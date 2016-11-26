@@ -60,7 +60,12 @@
 	/* top部分的LogoDIV */
 	#topLogo{
 		width:200px;
-		height:80px;	
+		height:80px;
+		font-size: 20px;	
+		text-align: center;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		color: #39F;
 	}
 		/* topLogo部分的icoDIV */
 		#topLogoIco{
